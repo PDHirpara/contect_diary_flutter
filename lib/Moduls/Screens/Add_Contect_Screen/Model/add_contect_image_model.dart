@@ -1,0 +1,1 @@
+import 'dart:io';class ProfileImage {  // File? imageFile;  ProfileImage({required this.imageFile});}
