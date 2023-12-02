@@ -1,0 +1,1 @@
+class Contect {  String name;  String email;  String phone;  Contect({required this.name, required this.email, required this.phone});}

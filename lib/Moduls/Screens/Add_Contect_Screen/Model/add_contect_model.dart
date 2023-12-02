@@ -1,0 +1,1 @@
+import 'package:image_picker/image_picker.dart';class Add_Contect_Model {  int currentIndex;  Add_Contect_Model({required this.currentIndex});}
